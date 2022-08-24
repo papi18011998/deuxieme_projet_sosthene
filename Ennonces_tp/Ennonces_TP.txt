@@ -1,0 +1,81 @@
+TP1:
+
+Étape 1 : Créez une page HTML.
+
+Étape 2 : Ajoutez votre nom et votre prénom en titre principal.
+
+Étape 3 : Ajoutez une photo miniature, sur laquelle on pourra cliquer pour avoir une version agrandie.
+
+Étape 4 : Ajoutez 3 sections avec un titre secondaire (mon expérience, mes compétences, ma formation). Chaque section contient un paragraphe ou une liste à puce.
+
+Vérifiez bien que vous avez les éléments suivants :
+
+✅ La page HTML est un CV.
+
+✅ Le titre principal est en <h1>.
+
+✅ Une photo miniature cliquable renvoie sur la même photo agrandie.
+
+✅ 3 sections (mon expérience, mes compétences, ma formation) sont en titre <h2>.
+
+✅ Chaque section contient un paragraphe ou une liste à puce.
+
+*****************************************************************************************
+TP2:
+
+Étape 1 : Récupérez le fichier HTML que vous aviez créé dans la première activité.
+
+Étape 2 : Ajoutez-y les effets de style suivants :
+
+changer la couleur d'un des textes ;
+
+changer l'alignement d'un des textes ;
+
+appliquer une image de fond à la page ;
+
+utiliser une police personnalisée via @font-face ;
+
+définir la bordure d'un élément ;
+
+définir l'ombre d'un élément.
+
+Vérifiez bien que vous avez les éléments suivants :
+
+✅ Vous avez une page .html et un fichier .css.
+
+✅ La couleur d’un des textes est changée.
+
+✅ L’alignement d’un des textes est changé.
+
+✅ Une image de fond est appliquée à la page.
+
+✅ Une police personnalisée est utilisée via @font-face.
+
+✅ La bordure d’un élément est définie.
+
+****************************************************************************
+TP3:
+
+à gauche, un liseré, qui sera défini en valeur absolue (en pixels) ;
+
+à droite, le contenu de votre CV, qui contiendra à l'intérieur, de gauche à droite, les sections suivantes :
+
+Mon expérience,
+
+Mes compétences,
+
+Ma formation.
+
+La mise en page, à l'exception du liseré, doit être en valeur relative (pourcentage). Le contenu doit occuper tout l'espace en largeur, quelle que soit la largeur de la fenêtre.
+
+Vous devrez utiliser des balises sémantiques pour réaliser votre mise en page.
+
+Vérifiez bien que vous avez les éléments suivants :
+
+✅ Un liseré est présent à gauche, en valeur absolue.
+
+✅ 3 blocs sont alignés de gauche à droite, avec une mise en page en valeur relative (pourcentage).
+
+✅ Des balises sémantiques sont utilisées
+
+✅ L’ombre d’un élément est définie.
